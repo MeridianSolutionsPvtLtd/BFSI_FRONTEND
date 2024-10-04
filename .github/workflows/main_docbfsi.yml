@@ -59,4 +59,4 @@ jobs:
           app-name: 'docbfsi'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_355287453A5144B3BB28239A5ECE99EF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_02C5EAB745C94DF5828808338F3CCA8E }}
